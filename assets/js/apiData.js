@@ -84,7 +84,4 @@ function getData() {
       });
     }
   });
-} */
-
-
 }
