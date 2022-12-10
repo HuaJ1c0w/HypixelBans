@@ -1,3 +1,9 @@
+/*
+ * This script is made by Strengthless.
+ * The API Data is provided by Hypixel Studios Inc.
+ * Check them out here: https://api.hypixel.net/
+ *
+ */
 var apiKey, userID;
 
 function toTitleCase(string) {
@@ -84,3 +90,7 @@ function getData() {
       });
     }
   });
+} */
+
+
+}
